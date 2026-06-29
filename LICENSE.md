@@ -1,4 +1,4 @@
-# 
+# متقدم SQL Server Management Studio سمات لـ Mac OS | محدث SQL Server Management Studio سمات لـ PC Windows. مع مراجعة الكود و سير عمل طلب السحب — مُحسَّن لأقصى أداء على جميع المنصات.
 
 
 
